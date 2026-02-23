@@ -1,0 +1,60 @@
+{
+  "success_patterns": [
+    {
+      "requirement": "搜索Python教程",
+      "intent": "search",
+      "skills": [
+        "sou"
+      ],
+      "timestamp": "2026-02-23T12:09:15.856257"
+    },
+    {
+      "requirement": "搜索AI最新新闻",
+      "intent": "search",
+      "skills": [
+        "sou"
+      ],
+      "timestamp": "2026-02-23T12:13:11.554925"
+    },
+    {
+      "requirement": "搜索Python教程",
+      "intent": "search",
+      "skills": [
+        "sou"
+      ],
+      "timestamp": "2026-02-23T12:14:00.696650"
+    },
+    {
+      "requirement": "搜索AI最新新闻",
+      "intent": "search",
+      "skills": [
+        "sou"
+      ],
+      "timestamp": "2026-02-23T13:50:24.450544"
+    },
+    {
+      "requirement": "写一个计算器并运行",
+      "intent": "write",
+      "skills": [
+        "xie",
+        "yun"
+      ],
+      "timestamp": "2026-02-23T13:50:30.977337"
+    }
+  ],
+  "failed_patterns": [],
+  "skills": {
+    "sou": {
+      "success": 4,
+      "failed": 0
+    },
+    "xie": {
+      "success": 1,
+      "failed": 0
+    },
+    "yun": {
+      "success": 1,
+      "failed": 0
+    }
+  }
+}

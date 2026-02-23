@@ -1,0 +1,19 @@
+{
+  "success_patterns": [
+    {
+      "requirement": "搜索Python",
+      "intent": "search",
+      "skills": [
+        "sou"
+      ],
+      "timestamp": "2026-02-23T13:58:50.592959"
+    }
+  ],
+  "failed_patterns": [],
+  "skills": {
+    "sou": {
+      "success": 1,
+      "failed": 0
+    }
+  }
+}
